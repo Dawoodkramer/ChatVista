@@ -22,3 +22,51 @@
   "messageText": "goodbye",
   "timestamp": "2025-05-23T14:49:54.190091900"
 },
+{
+  "messageID": "9602079047",
+  "messageNumber": 1,
+  "messageHash": "96:1:HIYA",
+  "recipient": "+27828279072",
+  "messageText": "Hi there mum , how hare you? have a splendid day. love ya ",
+  "timestamp": "2025-05-23T15:40:23.985966200"
+},
+{
+  "messageID": "7453470228",
+  "messageNumber": 2,
+  "messageHash": "74:2:DAWOODCHOCOLATE",
+  "recipient": "+27676326084",
+  "messageText": "dawood order the chocolate",
+  "timestamp": "2025-05-23T15:41:09.107359900"
+},
+{
+  "messageID": "8848098118",
+  "messageNumber": 1,
+  "messageHash": "88:1:HELLOASSIGNMENT",
+  "recipient": "+27676326084",
+  "messageText": "hello how are you have you completed youre assignment",
+  "timestamp": "2025-05-23T15:49:50.236550700"
+},
+{
+  "messageID": "8170954296",
+  "messageNumber": 1,
+  "messageHash": "81:1:HELLOHELLO",
+  "recipient": "+27676326084",
+  "messageText": "hello",
+  "timestamp": "2025-05-23T15:51:12.285425800"
+},
+{
+  "messageID": "9687348807",
+  "messageNumber": 1,
+  "messageHash": "96:1:HELLOYOU",
+  "recipient": "+27676326084",
+  "messageText": "hello how are you?",
+  "timestamp": "2025-05-23T16:05:52.118826400"
+},
+{
+  "messageID": "1734229769",
+  "messageNumber": 1,
+  "messageHash": "17:1:HELLOTHERE",
+  "recipient": "+27828279072",
+  "messageText": "hello there",
+  "timestamp": "2025-05-23T16:13:21.924533800"
+},
